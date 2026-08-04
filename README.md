@@ -1,4 +1,4 @@
 <p align="center">
-  <img src="./assets/images/banner%20github.png" alt="Banner QA Engineer" width="100%">
+  <img src="./assets/images/bannergithub.png" alt="Banner QA Engineer" width="100%">
 </p>
 #### Hola, soy QA Engineer en transición desde la auditoría de calidad en campo para P&G. Durante 2 años mi responsabilidad fue asegurar que la estrategia definida en oficina se ejecutara con precisión en punto de venta. Validaba planogramas, precios, inventario físico vs sistema (base de datos) y share frente a competencia con evidencia fotográfica, contexto y causa raíz para asegurar la trazabilidad y la toma de decisiones. Esa experiencia me formó en lo que hoy es la base de mi trabajo como QA. Actualmente aplico esa misma lógica al aseguramiento de calidad de software. Me enfoco en pruebas manuales, diseño y ejecución de casos de prueba, reporte de defectos en Jira y API Testing con Postman y Devtools. Mi objetivo profesional es aportar orden, claridad y criterio de negocio en cada ciclo de pruebas para prevenir que los errores lleguen al usuario final.
