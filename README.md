@@ -18,7 +18,7 @@
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 
-*Calidad en Campo + Análisis (Tu diferenciador):*
+*Calidad en Campo + Análisis:*
 
 ![Documentation](https://img.shields.io/badge/Documentación_de_Evidencia-0078D4?style=for-the-badge&logo=readthedocs&logoColor=white)
 ![Data Validation](https://img.shields.io/badge/Validación_Datos_vs_Sistema-000000?style=for-the-badge&logo=databricks&logoColor=white)
@@ -40,5 +40,7 @@
 | SQL | +50 Consultas para validación de datos en BD |
 | Excel | +150 Casos de prueba diseñados y documentados |
 | Android Studio | Pruebas funcionales en 1 proyecto móvil |
+
+:card_file_box: PROYECTOS
 
 
