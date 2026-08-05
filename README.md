@@ -34,6 +34,7 @@
 - Pruebas de API con Postman
 - Validación de datos físicos vs sistema
 
+
 | Herramientas | logros/Impacto |
 |------------|-----|
 | Jira | +100 Bugs reportados con trazabilidad y evidencia |
@@ -44,6 +45,7 @@
 | Excel | +150 Casos de prueba diseñados y documentados |
 | Android Studio | Pruebas funcionales en 1 proyecto móvil |
 
+
 :card_file_box: PROYECTOS
 
 | Proyecto | Objetivo | Logro | Enlaces |
@@ -52,15 +54,18 @@
 | Condusef | Cross-Browser Testing | 15 Validaciones en diseños en Chrome y Firefox + 1 Bug reportados |
 | Urban Grocers | API Testing | 61 Casos de prueba en Endpoints + 30 Bugs en metodo POST documentados y validados |
 
+
 ### 📖 ESTUDIOS Y CERTIFICADOS
 
 #### LICENICIATURA EN ARQUITECTURA - Universidad Juárez Autónoma de Tabasco (UJAT) 2018-2021 (Trunca)
 #### CERTIFICACIÓN EN QA ENGINEER - TripleTen LATAM Ene/Jul-2026 (Finalizado)
 
+
 ### 🌎 IDIOMAS
 
 #### ESPAÑOL-NIVEL: NATIVO
 #### INGLES-NIVEL: A2 BÁSICO
+
 
 ### 📱 MIS CONTACTOS
 
