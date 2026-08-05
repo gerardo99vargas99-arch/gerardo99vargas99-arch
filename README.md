@@ -40,7 +40,7 @@ ________________________________________________________________________________
 ____________________________________________________________________________________________________________________________________________________________________________________________________________________
 ### :card_file_box: PROYECTOS
 
-| Proyectos | Objetivos | Logros | Enlaces |
+| Nombre | Objetivos | Logros | Enlaces |
 | :--- | :--- | :--- | :--- |
 | **Guitar Flash** | Smoke Testing + Design UI | 20 Casos de prueba + 3 Bugs documentados | [📁 Proyecto]() |
 | **Condusef** | Cross-Browser Testing | 15 Validaciones en Chrome y Firefox + 1 Bug | [📁 Proyecto]() |
