@@ -11,7 +11,7 @@
 #### Validaba planogramas, precios, inventario físico vs sistema (base de datos) y share frente a competencia con evidencia fotográfica, contexto y causa raíz para asegurar la trazabilidad y la toma de decisiones. Esa experiencia me formó en lo que hoy es la base de mi trabajo como QA. 
 
 #### Actualmente aplico esa misma lógica al aseguramiento de calidad de software. Me enfoco en pruebas manuales, diseño y ejecución de casos de prueba, reporte de defectos en Jira y API Testing con Postman y Devtools. Mi objetivo profesional es aportar orden, claridad y criterio de negocio en cada ciclo de pruebas para prevenir que los errores lleguen al usuario final.
-
+____________________________________________________________________________________________________________________________________________________________________________________________________________________
 *QA & Testing:*
 
 ![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
@@ -26,15 +26,14 @@
 ![Documentation](https://img.shields.io/badge/Documentación_de_Evidencia-0078D4?style=for-the-badge&logo=readthedocs&logoColor=white)
 ![Data Validation](https://img.shields.io/badge/Validación_Datos_vs_Sistema-000000?style=for-the-badge&logo=databricks&logoColor=white)
 ![Root Cause Analysis](https://img.shields.io/badge/Análisis_Causa_Raíz-FFB400?style=for-the-badge&logo=checkmarx&logoColor=black)
-
+____________________________________________________________________________________________________________________________________________________________________________________________________________________
 ### ⚙️ Lo que hago
 
 - Diseño y ejecución de casos de prueba
 - Reporte de bugs con trazabilidad en Jira
 - Pruebas de API con Postman
 - Validación de datos físicos vs sistema
-
-
+____________________________________________________________________________________________________________________________________________________________________________________________________________________
 | Herramientas | logros/Impacto |
 |------------|-----|
 | Jira | +100 Bugs reportados con trazabilidad y evidencia |
@@ -44,8 +43,7 @@
 | SQL | +50 Consultas para validación de datos en BD |
 | Excel | +150 Casos de prueba diseñados y documentados |
 | Android Studio | Pruebas funcionales en 1 proyecto móvil |
-
-
+____________________________________________________________________________________________________________________________________________________________________________________________________________________
 :card_file_box: PROYECTOS
 
 | Proyecto | Objetivo | Logro | Enlaces |
@@ -53,20 +51,17 @@
 | Guitar Flash | Smoke Testing + Design UI | 20 Casos de prueba + 3 Bugs documentados |
 | Condusef | Cross-Browser Testing | 15 Validaciones en diseños en Chrome y Firefox + 1 Bug reportados |
 | Urban Grocers | API Testing | 61 Casos de prueba en Endpoints + 30 Bugs en metodo POST documentados y validados |
-
-
+____________________________________________________________________________________________________________________________________________________________________________________________________________________
 ### 📖 ESTUDIOS Y CERTIFICADOS
 
 #### LICENICIATURA EN ARQUITECTURA - Universidad Juárez Autónoma de Tabasco (UJAT) 2018-2021 (Trunca)
 #### CERTIFICACIÓN EN QA ENGINEER - TripleTen LATAM Ene/Jul-2026 (Finalizado)
-
-
+____________________________________________________________________________________________________________________________________________________________________________________________________________________
 ### 🌎 IDIOMAS
 
 #### ESPAÑOL-NIVEL: NATIVO
 #### INGLES-NIVEL: A2 BÁSICO
-
-
+____________________________________________________________________________________________________________________________________________________________________________________________________________________
 ### 📱 MIS CONTACTOS
 
 #### Linkedln: www.linkedin.com/in/gerardo-vargas-ventura1999
