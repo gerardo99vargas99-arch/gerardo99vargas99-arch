@@ -38,16 +38,8 @@ ________________________________________________________________________________
 | Excel | +150 Casos de prueba diseñados y documentados |
 | Android Studio | Pruebas funcionales en 1 proyecto móvil |
 ____________________________________________________________________________________________________________________________________________________________________________________________________________________
-:card_file_box: PROYECTOS
+### :card_file_box: PROYECTOS
 
-| Proyecto | Objetivo | Logro | Enlaces |
-|-----|----------|--------|------------|
-| Guitar Flash | Smoke Testing + Design UI | 20 Casos de prueba + 3 Bugs documentados | https://docs.google.com/spreadsheets/d/1dLoMbH6oAnJuKN3EBxt5fXpu0qszI9onff6ud4zusR0/edit?usp=sharing |
-| Condusef | Cross-Browser Testing | 15 Validaciones en diseños en Chrome y Firefox + 1 Bug reportados | https://docs.google.com/spreadsheets/d/14F2KkiefHC7NZCgrfLGfHaeiqM2ncOzTBclDjuJVirc/edit?usp=sharing | 
-| Urban Grocers | API Testing | 61 Casos de prueba en Endpoints + 30 Bugs en metodo POST documentados y validados | https://docs.google.com/spreadsheets/d/1KE0OSKe0jPPCd9U9E_iFZQaPvFzjQkmzlwe7pa1Hp9Y/edit?usp=sharing |
-
-
-### PROYECTOS
 | Proyecto | Objetivo | Logro | Enlaces |
 | :--- | :--- | :--- | :--- |
 | **Guitar Flash** | Smoke Testing + Design UI | 20 Casos de prueba + 3 Bugs documentados | [📄 Ver Casos](https://docs.google.com/spreadsheets/d/1dLoMbH6oAnJuKN3EBxt5fXpu0qszl9onff6ud4zusR0/edit?usp=sharing) |
