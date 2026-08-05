@@ -45,8 +45,8 @@
 
 | Proyecto | Objetivo | Logro |
 |-----|----------|--------|
-| Guitar Flash |  | ✅ |
-| Condusef | Design UI | 🚧 |
-| Urban Grocers | API Testing | 📅 |
+| Guitar Flash | Smoke Testing + Design UI |  |
+| Condusef | Cross-Browser Testing |  |
+| Urban Grocers | API Testing |  |
 
 
