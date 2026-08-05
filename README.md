@@ -1,6 +1,6 @@
 # Gerardo Vargas Ventura
 <p align="center">
-  <img src="./assets/banner%20github%202.png" alt="Banner QA Engineer" width="100%">
+  <img src="./assets/baneer%20github%202.png" alt="Banner QA Engineer" width="100%">
 </p>
 
 ## A CERCA DE MI
