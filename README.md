@@ -14,7 +14,7 @@
 ![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Chrome DevTools](https://img.shields.io/badge/Chrome_DevTools-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 
@@ -31,13 +31,12 @@
 - Pruebas de API con Postman
 - Validación de datos físicos vs sistema
 
-| Herramientas | logros |
+| Herramientas | logros/Impacto |
 |------------|-----|
-| Jira | +100 informe de errores documentados |
-| Postman | +70 pruebas en Api Testing |
-| Figma | Análisis de diseños en 3 proyectos |
-| Devtools | +7 proyectos en Design UI (Firefox y Chrome) |
-| SQL | +50 consultas en base de datos |
-| Excel | +150 casos de prueba documentados |
-| Android Studio | 1 proyecto en pruebas de apps móviles |
-| Selenium | +25 Testing Automation en Pycharm/Pytest |
+| Jira | +100 Bugs reportados con trazabilidad y evidencia |
+| Postman | +70 Prueba de API ejectutadas y validadas |
+| Figma | Validación de UX/UI en 3 proyectos vs requerimientos |
+| Devtools | +7 Proyectos testeados en Chrome y Firefox |
+| SQL | +50 Consultas para validación de datos en BD |
+| Excel | +150 Casos de prueba diseñados y documentados |
+| Android Studio | Pruebas funcionales en 1 proyecto móvil |
