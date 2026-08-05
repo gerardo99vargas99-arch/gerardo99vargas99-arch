@@ -1,4 +1,4 @@
-## Gerardo Vargas Ventura ● Design UI ● API Testing ● Validación de datos 
+## ¡Hola!, Soy Gerardo Vargas Ventura
 
 <p align="center">
   <img src="./assets/baneer%20github%202.jpeg" alt="Banner QA Engineer" width="100%">
