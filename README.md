@@ -1,4 +1,4 @@
-# ¡Hola!, Soy Gerardo Vargas Ventura
+# ¡Hola!, Soy Gerardo Vargas Ventura ✌️
 <p align="center">
   <img src="./assets/baneer%20github%202.jpeg" alt="Banner QA Engineer" width="100%">
 </p>
