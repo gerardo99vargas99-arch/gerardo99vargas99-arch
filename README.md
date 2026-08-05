@@ -50,7 +50,19 @@
 | Condusef | Cross-Browser Testing |  |
 | Urban Grocers | API Testing |  |
 
-### ESTUDIOS Y CERTIFICADOS
+### 📖 ESTUDIOS Y CERTIFICADOS
 
+#### LICENICIATURA EN ARQUITECTURA - Universidad Juárez Autónoma de Tabasco (UJAT) 2018-2021 (Trunca)
+#### CERTIFICACIÓN EN QA ENGINEER - TripleTen LATAM Ene/Jul-2026 (Finalizado)
+
+### 🌎 IDIOMAS
+
+#### ESPAÑOL-NIVEL: NATIVO
+#### INGLES-NIVEL: A2 BÁSICO
+
+### 📱 MIS CONTACTOS
+
+#### Linkedln: www.linkedin.com/in/gerardo-vargas-ventura1999
+#### Correo: jerryjym352@gmail.com
 
 
