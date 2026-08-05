@@ -26,6 +26,15 @@ ________________________________________________________________________________
 ![Documentation](https://img.shields.io/badge/Documentación_de_Evidencia-0078D4?style=for-the-badge&logo=readthedocs&logoColor=white)
 ![Data Validation](https://img.shields.io/badge/Validación_Datos_vs_Sistema-000000?style=for-the-badge&logo=databricks&logoColor=white)
 ![Root Cause Analysis](https://img.shields.io/badge/Análisis_Causa_Raíz-FFB400?style=for-the-badge&logo=checkmarx&logoColor=black)
+
+*QA & Testing:*
+
+<img src="https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=jira&logoColor=white" height="20"> <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white" height="20"> <img src="https://img.shields.io/badge/Chrome_DevTools-4285F4?style=flat-square&logo=googlechrome&logoColor=white" height="20"> <img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white" height="20"> <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" height="20"> <img src="https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoft-excel&logoColor=white" height="20">
+
+*Calidad en Campo + Análisis:*
+
+<img src="https://img.shields.io/badge/Documentación_de_Evidencia-0078D4?style=flat-square&logo=readthedocs&logoColor=white" height="20"> <img src="https://img.shields.io/badge/Validación_Datos_vs_Sistema-000000?style=flat-square&logo=databricks&logoColor=white" height="20"> <img src="https://img.shields.io/badge/Análisis_Causa_Raíz-FFB400?style=flat-square&logo=checkmarx&logoColor=black" height="20">
+
 ____________________________________________________________________________________________________________________________________________________________________________________________________________________
 ### ⚙️ Lo que hago
 
