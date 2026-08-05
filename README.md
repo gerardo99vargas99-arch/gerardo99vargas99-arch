@@ -1,10 +1,12 @@
-# Gerardo Vargas Ventura ● QA Manual ● Design UI ● API Testing ● Validación de datos 
+## Gerardo Vargas Ventura ● Design UI ● API Testing ● Validación de datos 
+
 <p align="center">
   <img src="./assets/baneer%20github%202.jpeg" alt="Banner QA Engineer" width="100%">
 </p>
+
 # ACERCA DE MÍ
 
-#### Hola, soy QA Engineer en transición desde la auditoría de calidad en campo para P&G. Durante 2 años mi responsabilidad fue asegurar que la estrategia definida en oficina se ejecutara con precisión en punto de venta. 
+#### soy QA Engineer en transición desde la auditoría de calidad en campo para P&G. Durante 2 años mi responsabilidad fue asegurar que la estrategia definida en oficina se ejecutara con precisión en punto de venta. 
 
 #### Validaba planogramas, precios, inventario físico vs sistema (base de datos) y share frente a competencia con evidencia fotográfica, contexto y causa raíz para asegurar la trazabilidad y la toma de decisiones. Esa experiencia me formó en lo que hoy es la base de mi trabajo como QA. 
 
@@ -44,11 +46,11 @@
 
 :card_file_box: PROYECTOS
 
-| Proyecto | Objetivo | Logro |
-|-----|----------|--------|
-| Guitar Flash | Smoke Testing + Design UI |  |
-| Condusef | Cross-Browser Testing |  |
-| Urban Grocers | API Testing |  |
+| Proyecto | Objetivo | Logro | Enlaces |
+|-----|----------|--------|------------|
+| Guitar Flash | Smoke Testing + Design UI | 20 Casos de prueba + 3 Bugs documentados |
+| Condusef | Cross-Browser Testing | 15 Validaciones en diseños en Chrome y Firefox + 1 Bug reportados |
+| Urban Grocers | API Testing | 61 Casos de prueba en Endpoints + 30 Bugs en metodo POST documentados y validados |
 
 ### 📖 ESTUDIOS Y CERTIFICADOS
 
