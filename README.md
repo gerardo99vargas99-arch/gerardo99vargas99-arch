@@ -5,3 +5,14 @@
 
 # A CERCA DE MI
 #### Hola, soy QA Engineer en transición desde la auditoría de calidad en campo para P&G. Durante 2 años mi responsabilidad fue asegurar que la estrategia definida en oficina se ejecutara con precisión en punto de venta. Validaba planogramas, precios, inventario físico vs sistema (base de datos) y share frente a competencia con evidencia fotográfica, contexto y causa raíz para asegurar la trazabilidad y la toma de decisiones. Esa experiencia me formó en lo que hoy es la base de mi trabajo como QA. Actualmente aplico esa misma lógica al aseguramiento de calidad de software. Me enfoco en pruebas manuales, diseño y ejecución de casos de prueba, reporte de defectos en Jira y API Testing con Postman y Devtools. Mi objetivo profesional es aportar orden, claridad y criterio de negocio en cada ciclo de pruebas para prevenir que los errores lleguen al usuario final.
+
+| Herramientas | logros |
+|------------|-----|
+| Jira | +100 informe de errores documentados |
+| Postman | +70 pruebas en Api Testing |
+| Figma | Análisis de diseños en 3 proyectos |
+| Devtools | +7 proyectos en Design UI (Firefox y Chrome) |
+| SQL | +50 consultas en base de datos |
+| Excel | +150 casos de prueba documentados |
+| Android Studio | 1 proyecto en pruebas de apps móviles |
+| Selenium | +25 Testing Automation en Pycharm/Pytest |
