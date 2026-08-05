@@ -44,7 +44,7 @@ ________________________________________________________________________________
 | :--- | :--- | :--- | :--- |
 | **Guitar Flash** | Smoke Testing + Design UI | 20 Casos de prueba + 3 Bugs documentados | [📁 Proyecto](https://github.com/gerardo99vargas99-arch/Proyecto-GuitarFlash/blob/main/README.md) |
 | **Condusef** | Cross-Browser Testing | 15 Validaciones en Chrome y Firefox + 1 Bug | [📁 Proyecto](https://github.com/gerardo99vargas99-arch/Proyecto-Condusef/blob/main/README.md) |
-| **Urban Grocers** | API Testing | 61 Casos en Endpoints + 30 Bugs en POST | [📁 Proyecto]() |
+| **Urban Grocers** | API Testing | 61 Casos en Endpoints + 30 Bugs en POST | [📁 Proyecto](https://github.com/gerardo99vargas99-arch/Proyecto-UrbanGrocers/blob/main/README.md) |
 ____________________________________________________________________________________________________________________________________________________________________________________________________________________
 ### 📖 ESTUDIOS Y CERTIFICADOS
 
