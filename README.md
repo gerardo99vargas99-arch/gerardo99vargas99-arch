@@ -43,8 +43,8 @@ ________________________________________________________________________________
 | Proyecto | Objetivo | Logro | Enlaces |
 | :--- | :--- | :--- | :--- |
 | **Guitar Flash** | Smoke Testing + Design UI | 20 Casos de prueba + 3 Bugs documentados | [📄 Proyecto](https://docs.google.com/spreadsheets/d/1dLoMbH6oAnJuKN3EBxt5fXpu0qszI9onff6ud4zusR0/edit?usp=sharing) |
-| **Condusef** | Cross-Browser Testing | 15 Validaciones en Chrome y Firefox + 1 Bug | [📄 Proyecto]([https://docs.google.com/spreadsheets/d/14F2KkieFHC7NZCqrfLGfHaeiqM2ncOzTBcIDjuVirc/edit?usp=sharing](https://docs.google.com/spreadsheets/d/14F2KkiefHC7NZCgrfLGfHaeiqM2ncOzTBclDjuJVirc/edit?usp=sharing)) |
-| **Urban Grocers** | API Testing | 61 Casos en Endpoints + 30 Bugs en POST | [📄 Proyecto]([https://docs.google.com/spreadsheets/d/1KE00SKe0jPPCd9U9E_iFZQaPvFzjQkmzlwe7pa1Hp9Y/edit?usp=sharing](https://docs.google.com/spreadsheets/d/1KE0OSKe0jPPCd9U9E_iFZQaPvFzjQkmzlwe7pa1Hp9Y/edit?usp=sharing)) |
+| **Condusef** | Cross-Browser Testing | 15 Validaciones en Chrome y Firefox + 1 Bug | [📄 Proyecto](https://docs.google.com/spreadsheets/d/14F2KkieFHC7NZCqrfLGfHaeiqM2ncOzTBcIDjuVirc/edit?usp=sharing](https://docs.google.com/spreadsheets/d/14F2KkiefHC7NZCgrfLGfHaeiqM2ncOzTBclDjuJVirc/edit?usp=sharing) |
+| **Urban Grocers** | API Testing | 61 Casos en Endpoints + 30 Bugs en POST | [📄 Proyecto](https://docs.google.com/spreadsheets/d/1KE00SKe0jPPCd9U9E_iFZQaPvFzjQkmzlwe7pa1Hp9Y/edit?usp=sharing](https://docs.google.com/spreadsheets/d/1KE0OSKe0jPPCd9U9E_iFZQaPvFzjQkmzlwe7pa1Hp9Y/edit?usp=sharing) |
 ____________________________________________________________________________________________________________________________________________________________________________________________________________________
 ### 📖 ESTUDIOS Y CERTIFICADOS
 
