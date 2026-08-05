@@ -43,11 +43,10 @@
 
 :card_file_box: PROYECTOS
 
-| Mes | Objetivo | Estado |
+| Proyecto | Objetivo | Logro |
 |-----|----------|--------|
-| Agosto | GitHub Portfolio | ✅ |
-| Septiembre | Selenium | 🚧 |
-| Octubre | Playwright | 📅 |
-| Noviembre | ISTQB | 📅 |
+| Guitar Flash |  | ✅ |
+| Condusef | Design UI | 🚧 |
+| Urban Grocers | API Testing | 📅 |
 
 
