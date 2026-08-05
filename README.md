@@ -1,4 +1,4 @@
-## Gerardo Vargas Ventura ● QA Manual ● Design UI ● Devtools ● API Testing ● Validacíon de datos.
+## Gerardo Vargas Ventura ● QA Manual ● Design UI ● API Testing ● Validacíon de datos 
 <p align="center">
   <img src="./assets/baneer%20github%202.jpeg" alt="Banner QA Engineer" width="100%">
 </p>
