@@ -43,4 +43,11 @@
 
 :card_file_box: PROYECTOS
 
+| Mes | Objetivo | Estado |
+|-----|----------|--------|
+| Agosto | GitHub Portfolio | ✅ |
+| Septiembre | Selenium | 🚧 |
+| Octubre | Playwright | 📅 |
+| Noviembre | ISTQB | 📅 |
+
 
