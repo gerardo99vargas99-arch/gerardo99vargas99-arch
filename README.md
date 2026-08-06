@@ -5,7 +5,7 @@
 
 # 👨‍💻 Perfil Profesional
 
-#### soy QA Engineer en transición desde la auditoría de calidad en campo para P&G. Durante 2 años mi responsabilidad fue asegurar que la estrategia definida en oficina se ejecutara con precisión en punto de venta. 
+### soy QA Engineer en transición desde la auditoría de calidad en campo para P&G. Durante 2 años mi responsabilidad fue asegurar que la estrategia definida en oficina se ejecutara con precisión en punto de venta. 
 
 #### Validaba planogramas, precios, inventario físico vs sistema (base de datos) y share frente a competencia con evidencia fotográfica, contexto y causa raíz para asegurar la trazabilidad y la toma de decisiones. Esa experiencia me formó en lo que hoy es la base de mi trabajo como QA. 
 
