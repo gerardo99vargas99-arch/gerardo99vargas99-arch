@@ -3,7 +3,7 @@
   <img src="./assets/baneer%20github%202.jpeg" alt="Banner QA Engineer" width="100%">
 </p>
 
-# 👨‍💻 Perfil Profesional
+## 👨‍💻 Perfil Profesional
 
 ### soy QA Engineer en transición desde la auditoría de calidad en campo para P&G. Durante 2 años mi responsabilidad fue asegurar que la estrategia definida en oficina se ejecutara con precisión en punto de venta. 
 
