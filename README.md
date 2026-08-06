@@ -22,10 +22,10 @@ ________________________________________________________________________________
 ____________________________________________________________________________________________________________________________________________________________________________________________________________________
 ### ⚙️ Lo que hago
 
-- Diseño y ejecución de casos de prueba
-- Reporte de bugs con trazabilidad en Jira
-- Pruebas de API con Postman
-- Validación de datos físicos vs sistema
+#### - Diseño y ejecución de casos de prueba
+#### - Reporte de bugs con trazabilidad en Jira
+#### - Pruebas de API con Postman
+#### - Validación de datos físicos vs sistema
 ____________________________________________________________________________________________________________________________________________________________________________________________________________________
 | Herramientas | logros/Impacto |
 |------------|-----|
