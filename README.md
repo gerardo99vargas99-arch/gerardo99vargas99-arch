@@ -59,5 +59,5 @@ ________________________________________________________________________________
 
 #### 🖥️ <a href="https://www.linkedin.com/in/gerardo-vargas-ventura1999" target="_blank">Mi Perfil De Linkedin</a>
 #### 📧 jerryjym352@gmail.com
-#### 📝 <a href="https://docs.google.com/document/d/1rs67FOnQMgbaalxX0pwpU8pGn02bhh8Y/edit" tarjet="_blank">Mi CV Profesional</a>
+#### 📝 <a href="https://drive.google.com/file/d/11-AcZkn2k_enafKW667_RzYGYoQ_hljX/view?usp=sharing" tarjet="_blank">Mi CV Profesional</a>
 
