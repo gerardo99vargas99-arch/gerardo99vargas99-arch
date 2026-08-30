@@ -27,15 +27,15 @@ ________________________________________________________________________________
 #### - Pruebas de API con Postman
 #### - Validación de base de datos en SQL
 ____________________________________________________________________________________________________________________________________________________________________________________________________________________
-| Herramientas | logros | Impacto | 
+| Herramientas | logros | Impacto del producto | 
 |------------|-----|-------|
-| Jira | +100 Bugs reportados con trazabilidad y evidencia | 1 |
-| Postman | +70 Prueba de API ejectutadas y validadas | 2 |
-| Figma | Validación de UX/UI en 3 proyectos vs requerimientos | 3 |
-| Devtools | +7 Proyectos testeados en Chrome y Firefox | 4 |
-| SQL | +50 Consultas para validación de datos en BD | 5 |
-| Excel | +150 Casos de prueba diseñados y documentados | 6 |
-| Android Studio | Pruebas funcionales en 1 proyecto móvil | 7 |
+| Jira | +100 Bugs reportados con trazabilidad y evidencia | Detección temprana de bugs críticos |
+| Postman | +70 Prueba de API ejectutadas y validadas | Automatización de pruebas y aseguré el rendimiento del producto |
+| Figma | Validación de UX/UI en 3 proyectos vs requerimientos | Aseguré el diseño de productos entre navegadores |
+| Devtools | +7 Proyectos testeados en Chrome y Firefox | Certifiqué la uzabilidad de productos entre navegadores |
+| SQL | +50 Consultas para validación de datos en BD | Validé la existencia real en BD posibles errores en el frond-end |
+| Excel | +150 Casos de prueba diseñados y documentados | En pruebas de regresión detecté nuevos errores |
+| Android Studio | Pruebas funcionales en 1 proyecto móvil | Aseguré el flujo de apps móviles en 3 dispositivos |
 ____________________________________________________________________________________________________________________________________________________________________________________________________________________
 ### :card_file_box: PROYECTOS
 
