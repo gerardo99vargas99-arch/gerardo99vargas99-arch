@@ -25,7 +25,7 @@ ________________________________________________________________________________
 #### - Diseño y ejecución de casos de prueba
 #### - Reporte de bugs con trazabilidad en Jira
 #### - Pruebas de API con Postman
-#### - Validación de datos físicos vs sistema
+#### - Validación de base de datos en SQL
 ____________________________________________________________________________________________________________________________________________________________________________________________________________________
 | Herramientas | logros/Impacto |
 |------------|-----|
