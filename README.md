@@ -27,15 +27,15 @@ ________________________________________________________________________________
 #### - Pruebas de API con Postman
 #### - Validación de base de datos en SQL
 ____________________________________________________________________________________________________________________________________________________________________________________________________________________
-| Herramientas | logros/Impacto |
-|------------|-----|
-| Jira | +100 Bugs reportados con trazabilidad y evidencia | ajajajaja
-| Postman | +70 Prueba de API ejectutadas y validadas |
-| Figma | Validación de UX/UI en 3 proyectos vs requerimientos |
-| Devtools | +7 Proyectos testeados en Chrome y Firefox |
-| SQL | +50 Consultas para validación de datos en BD |
-| Excel | +150 Casos de prueba diseñados y documentados |
-| Android Studio | Pruebas funcionales en 1 proyecto móvil |
+| Herramientas | logros | Impacto | 
+|------------|-----|-------|
+| Jira | +100 Bugs reportados con trazabilidad y evidencia | 1 |
+| Postman | +70 Prueba de API ejectutadas y validadas | 2 |
+| Figma | Validación de UX/UI en 3 proyectos vs requerimientos | 3 |
+| Devtools | +7 Proyectos testeados en Chrome y Firefox | 4 |
+| SQL | +50 Consultas para validación de datos en BD | 5 |
+| Excel | +150 Casos de prueba diseñados y documentados | 6 |
+| Android Studio | Pruebas funcionales en 1 proyecto móvil | 7 |
 ____________________________________________________________________________________________________________________________________________________________________________________________________________________
 ### :card_file_box: PROYECTOS
 
