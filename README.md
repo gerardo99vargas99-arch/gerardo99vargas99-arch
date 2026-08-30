@@ -29,7 +29,7 @@ ________________________________________________________________________________
 ____________________________________________________________________________________________________________________________________________________________________________________________________________________
 | Herramientas | logros/Impacto |
 |------------|-----|
-| Jira | +100 Bugs reportados con trazabilidad y evidencia |
+| Jira | +100 Bugs reportados con trazabilidad y evidencia | ajajajaja
 | Postman | +70 Prueba de API ejectutadas y validadas |
 | Figma | Validación de UX/UI en 3 proyectos vs requerimientos |
 | Devtools | +7 Proyectos testeados en Chrome y Firefox |
