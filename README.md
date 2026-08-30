@@ -27,7 +27,7 @@ ________________________________________________________________________________
 #### - Pruebas de API con Postman
 #### - Validación de base de datos en SQL
 ____________________________________________________________________________________________________________________________________________________________________________________________________________________
-| Herramientas | logros | Impacto del producto | 
+| Herramientas | logros | Impacto en productos | 
 |------------|-----|-------|
 | Jira | +100 Bugs reportados con trazabilidad y evidencia | Detección temprana de bugs críticos |
 | Postman | +70 Prueba de API ejectutadas y validadas | Automatización de pruebas y aseguré el rendimiento del producto |
