@@ -59,6 +59,5 @@ ________________________________________________________________________________
 
 #### 🖥️ <a href="https://www.linkedin.com/in/gerardo-vargas-ventura1999" target="_blank">Mi Perfil De Linkedin</a>
 #### 📧 jerryjym352@gmail.com
-#### [📁 Mi CV](file:///C:/Users/jerry/Downloads/Gerardo_Vargas_Ventura_CV1_General.docx%20(2).pdf)
 #### <a href="file:///C:/Users/jerry/Downloads/Gerardo_Vargas_Ventura_CV1_General.docx%20(2).pdf" target="_blank"> <button>📄 Ver mi CV</button> </a>
 
