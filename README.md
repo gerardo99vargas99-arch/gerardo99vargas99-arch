@@ -60,5 +60,5 @@ ________________________________________________________________________________
 #### 🖥️ <a href="https://www.linkedin.com/in/gerardo-vargas-ventura1999" target="_blank">Mi Perfil De Linkedin</a>
 #### 📧 jerryjym352@gmail.com
 #### 📰 <a href="https://github.com/gerardo99vargas99-arch/gerardo99vargas99-arch/blob/main/CV_GerardoVargasVentura.docx.pdf" target="_blank">Mi CV (Español)</a>
-#### 📰 <a href="https://github.com/gerardo99vargas99-arch/gerardo99vargas99-arch/blob/main/CV_Gerardo_Vargas_Ventura_Ingles.docx.pdf" target="_blank">My CV (English</a>
+#### 📰 <a href="https://github.com/gerardo99vargas99-arch/gerardo99vargas99-arch/blob/main/CV_Gerardo_Vargas_Ventura_Ingles.docx.pdf" target="_blank">My CV (English)</a>
 
